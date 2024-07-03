@@ -6,7 +6,7 @@
 
 Apresentação do workshop e objetivos.
 O que é Tailwind CSS e por que usá-lo?
-Comparação com outras frameworks CSS (Bootstrap, Foundation).
+Comparação com outras frameworks CSS (Bootstrap).
 
 ### Sessão 1.2: Configuração do Ambiente
 
