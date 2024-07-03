@@ -10,6 +10,7 @@ Comparação com outras frameworks CSS (Bootstrap).
 
 ### Sessão 1.2: Configuração do Ambiente
 
+Usando somente o CDN
 Instalação do Node.js e npm.
 Configuração de um projeto com Tailwind CSS.
 Estrutura de diretórios e arquivos principais.
@@ -70,20 +71,12 @@ Otimização de performance com Tailwind CSS.
 Removendo CSS não utilizado com PurgeCSS.
 Boas práticas de organização e manutenção de código.
 
-## Módulo 6: Projeto Final e Revisão
+## Material
 
-Sessão 6.1: Desenvolvimento do Projeto Final
-Definição do projeto final: Criar uma landing page ou um dashboard.
-Sessão prática: Desenvolvimento guiado do projeto.
+[Material no GoogleDocs](https://drive.google.com/drive/folders/1G-nefMgKq7zdeHhncba7_kL8JITjrJIf?usp=sharing)
 
-Sessão 6.2: Revisão e Perguntas
+[Tailwind Documentação](https://tailwindcss.com/docs/installation)
 
-## Revisão dos conceitos e técnicas abordadas.
+[Node.js](https://nodejs.org/pt)
 
-Sessão de perguntas e respostas.
-Feedback e próximos passos.
-Materiais de Apoio:
-Slides de apresentação.
-Exemplos de código.
-Documentação oficial do Tailwind CSS.
-Recursos adicionais (artigos, vídeos, tutoriais).
+[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
