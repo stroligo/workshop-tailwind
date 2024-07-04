@@ -74,7 +74,7 @@ Boas práticas de organização e manutenção de código.
 
 ## Material
 
-- [Material no GoogleDocs](https://drive.google.com/drive/folders/1G-nefMgKq7zdeHhncba7_kL8JITjrJIf?usp=sharing)
+- [Roteiro do workshop - GoogleDocs](https://drive.google.com/drive/folders/1G-nefMgKq7zdeHhncba7_kL8JITjrJIf?usp=sharing)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Tailwind Documentação](https://tailwindcss.com/docs/installation)
 - [Node.js](https://nodejs.org/pt)
