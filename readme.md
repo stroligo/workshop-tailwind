@@ -19,6 +19,7 @@ Estrutura de diretórios e arquivos principais.
 
 ### Sessão 2.1: Utilizando Classes Utilitárias
 
+Visão geral
 Princípio das classes utilitárias.
 Aplicação básica de classes utilitárias em HTML.
 Customização de utilitários.
