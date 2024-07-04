@@ -1,5 +1,7 @@
 # Workshop Tailwind CSS
 
+Bem-vindo ao nosso Workshop de Tailwind CSS! Neste workshop, você aprenderá a usar o Tailwind CSS, desde a configuração inicial até a criação de layouts responsivos e estilização avançada. Exploraremos a aplicação de classes utilitárias, personalização de temas, integração com frameworks como React e Vue, e técnicas de otimização de performance. Com atividades práticas e exemplos, este workshop proporcionará o conhecimento necessário para melhorar suas habilidades de estilização web usando Tailwind CSS.
+
 ## Módulo 1: Introdução ao Tailwind CSS
 
 ### Sessão 1.1: Bem-vindo ao Tailwind CSS
