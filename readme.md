@@ -1,6 +1,4 @@
-# Workshop Tailwind CSS
-
-## Workshop completo no Youtube
+# Workshop completo no Youtube
 
 - [Parte 1](https://www.youtube.com/watch?v=QtnKKO1Aagc)
 - [Parte 2](https://www.youtube.com/watch?v=lyRIyMuLLaA)
